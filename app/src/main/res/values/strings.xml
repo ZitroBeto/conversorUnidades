@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ConversorUnidades</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="dimensiones_array">
+        <item>Longitud</item>
+        <item>Velocidad</item>
+        <item>Masa</item>
+        <item>Area</item>
+    </string-array>
+
+    <string-array name="Longitud_opciones">
+        <item>Milla a Kilómetro</item>
+        <item>Kilómetro a Milla</item>
+        <item>Pie a Centímetro</item>
+        <item>Centímetro a Pie</item>
+    </string-array>
+
+    <string-array name="Velocidad_opciones">
+        <item>mi/h a km/h</item>
+        <item>km/h a mi/h</item>
+        <item>ft/s a m/s</item>
+        <item>m/s a ft/s</item>
+    </string-array>
+
+    <string-array name="Masa_opciones">
+        <item>lb a kg</item>
+        <item>kg a lib</item>
+        <item>oz a gr</item>
+        <item>gr a oz</item>
+    </string-array>
+
+    <string-array name="Area_opciones">
+        <item>yd^2 a m^2 </item>
+        <item>ft^2 a cm^2</item>
+        <item>hectárea a acre</item>
+        <item>acre a hectárea</item>
+    </string-array>
+
+</resources>
